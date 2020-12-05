@@ -1,6 +1,6 @@
 # LUDHIANA CITY
 ----------------
-![Image of Ludhiana city](/image/ludhiana.jpeg)
+![Image of Ludhiana city](/task/image/ludhiana.jpeg)
 
 -------------------------------------------------------------
 My City Ludhiana is a city in Punjab and it is a very beautiful city. It is also the largest city in the North of Delhi. The city is also very close to Chandigarh and it is also close to Delhi and Amritsar. The people of Ludhiana speaks in Punjabi and it is named after Sikander Lodi. The city has old city and new city and the people call it that way. The Land of this place was also inclined towards the North and the West as well because of the river Satluj ran and this happened before the year 1785. The land of Ludhiana is yellow sandstone and granites that forms small hillocks, plateaus, and the dips. The new city has a lot of Gulmohar trees and jacarandas as the British planted a lot of them.
@@ -15,16 +15,17 @@ The city also has a lot of institutes and schools and people from the neighborin
 1. Clubs
 2. Restaurants
 3. Religious Places
--------------------------------------------------------------------------------------------
-| Clubs           | Restaurants   | Religious Places           |
-|-----------------|---------------|----------------------------|
-| The Brew Estate | Aman Chicken  | Gurudwara Shri Manji Sahib |
-| The Rich People | Baba Chicken  | Gurudwara Charan Kamal     |
-| Wildfire        | Tikka Times   | Gurudwara Dukh Niwaran     |
-| Hype            | Friends Dhaba | Krishna Mandir             |
-| Brew Masters    | Bistro        | Sai Dhaam                  |
 
--------------------------------------------------------------------------------------------------
+
+| Clubs           | Restaurants     | Religious Places            |
+|-----------------|:---------------:|----------------------------:|
+| The Brew Estate | Aman Chicken    | Gurudwara Shri Manji Sahib  |
+| The Rich People | Baba Chicken    | Gurudwara Charan Kamal      |
+| Wildfire        | Tikka Times     | Gurudwara Dukh Niwaran      |
+| Hype            | Friends Dhaba   | Krishna Mandir              |
+| Brew Masters    | Bistro          | Sai Dhaam                   |
+
+
 ## Ludhiana City Facts  :grin:
 
 Fondly called as the Manchester of India and the Cultural-cum-Industrial capital of Punjab, Ludhiana as a city has grown manifolds over the past few decades.
