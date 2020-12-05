@@ -1,6 +1,6 @@
 # LUDHIANA CITY
 ----------------
-![Image of Ludhiana city](/task/image/ludhiana.jpeg)
+![Image of Ludhiana city](/task/image/lh.jpeg)
 
 -------------------------------------------------------------
 My City Ludhiana is a city in Punjab and it is a very beautiful city. It is also the largest city in the North of Delhi. The city is also very close to Chandigarh and it is also close to Delhi and Amritsar. The people of Ludhiana speaks in Punjabi and it is named after Sikander Lodi. The city has old city and new city and the people call it that way. The Land of this place was also inclined towards the North and the West as well because of the river Satluj ran and this happened before the year 1785. The land of Ludhiana is yellow sandstone and granites that forms small hillocks, plateaus, and the dips. The new city has a lot of Gulmohar trees and jacarandas as the British planted a lot of them.
