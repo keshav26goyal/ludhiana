@@ -12,7 +12,8 @@ The city also has a lot of institutes and schools and people from the neighborin
 
 --------------------------------------------------------------------------------------------------------
 
-## Best Places To Visit In Ludhiana :heart_eyes:
+## Best Places To Visit In Ludhiana 
+:heart_eyes:
 1. Clubs
 2. Restaurants
 3. Religious Places
@@ -27,7 +28,8 @@ The city also has a lot of institutes and schools and people from the neighborin
 | Brew Masters    | Bistro          | Sai Dhaam                   |
 
 
-## Ludhiana City Facts  :grin:
+## Ludhiana City Facts 
+:grin:
 
 Fondly called as the Manchester of India and the Cultural-cum-Industrial capital of Punjab, Ludhiana as a city has grown manifolds over the past few decades.
 
