@@ -16,13 +16,14 @@ The city also has a lot of institutes and schools and people from the neighborin
 2. Restaurants
 3. Religious Places
 
-| Clubs           | Restaurants   | Religious Places           |
-|-----------------|---------------|----------------------------|
-| The Brew Estate | Aman Chicken  | Gurudwara Shri Manji Sahib |
-| The Rich People | Baba Chicken  | Gurudwara Charan Kamal     |
-| Wildfire        | Tikka Times   | Gurudwara Dukh Niwaran     |
-| Hype            | Friends Dhaba | Krishna Mandir             |
-| Brew Masters    | Bistro        | Sai Dhaam                  |
+
+| Clubs           | Restaurants     | Religious Places            |
+|-----------------|:---------------:|----------------------------:|
+| The Brew Estate | Aman Chicken    | Gurudwara Shri Manji Sahib  |
+| The Rich People | Baba Chicken    | Gurudwara Charan Kamal      |
+| Wildfire        | Tikka Times     | Gurudwara Dukh Niwaran      |
+| Hype            | Friends Dhaba   | Krishna Mandir              |
+| Brew Masters    | Bistro          | Sai Dhaam                   |
 
 
 ## Ludhiana City Facts  :grin:
